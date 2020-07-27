@@ -1,0 +1,26 @@
+ul.autoCompleteInput{
+
+    position:absolute !important;
+    z-index:1000;
+   background-color: #f3f5f9;
+   *border:1px red solid;
+   max-height: 200px;
+   overflow: auto;
+   margin-top: 5px;
+   padding:0px !important;
+   border: 1px solid #ccc;
+}
+
+.autoCompleteInput li:first-child {
+    border: 0px;
+}
+
+.autoCompleteInput li {
+    display: table;
+    padding:5px 10px;
+    border-top: 1px solid #eee;
+}
+
+.autoCompleteInput li a {
+    *color:red;
+}
