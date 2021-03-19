@@ -45,7 +45,6 @@
             appendAfter(div, $input);
 
             $input.addEventListener("keyup", function (e) {
-
                 let divElem = document.getElementById(this.getAttribute("data-id"));
                 divElem.innerHTML = '';
                 let elemInput = this,
@@ -154,7 +153,6 @@
                             }
                         }
                     }
-
                 }
             }
             , false);
