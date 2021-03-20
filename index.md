@@ -4,7 +4,7 @@
     <head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
                 <!-- META SECTION -->
-        <title>Plugin  - Auto Complete Input</title>  
+        <title>Plugin  - Auto Complete Input MD</title>  
 
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
