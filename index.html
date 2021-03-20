@@ -20,7 +20,7 @@
   margin: 0 auto;">
   <h2>Plugin  - Auto Complete Input <hr></h2>
  
-  
+  <p>Como exemplo, pesquise por: Ana, Bruno, Carlos, Catarina ou Bianca </p>
 		<label>
 		Search:</label>
 		<input type="text" name="name" id="name"> 
