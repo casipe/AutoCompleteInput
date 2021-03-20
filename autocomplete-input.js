@@ -1,4 +1,11 @@
-// AutoCompleteInput v1.0.25 - http://github.com/casipe/AutoCompleteInput - MIT Licensed
+// 
+/*!
+ * AutoCompleteInput
+ * version: 1.x.x
+ * Author: (c) 2021 Carlivan Silva Pereira, carlivanpereira@gmail.com 
+ * http://www.casipe.com.br
+ */
+
 (function () {
 
     var extend = function (a, b) {
